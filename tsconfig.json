@@ -23,20 +23,20 @@
       "node"
     ],
     "paths": {
-      "@angular-material-components/*": [
-        "dist/@angular-material-components/*"
+      "@vipstorage/*": [
+        "dist/@vipstorage/*"
       ],
-      "@angular-material-components/color-picker": [
-        "dist/@angular-material-components/color-picker"
+      "@vipstorage/material-color-picker": [
+        "dist/@vipstorage/material-color-picker"
       ],
-      "@angular-material-components/color-picker/*": [
-        "dist/@angular-material-components/color-picker/*"
+      "@vipstorage/material-color-picker/*": [
+        "dist/@vipstorage/material-color-picker/*"
       ],
-      "@angular-material-components/datetime-picker": [
-        "dist/@angular-material-components/datetime-picker"
+      "@vipstorage/material-datetime-picker": [
+        "dist/@vipstorage/material-datetime-picker"
       ],
-      "@angular-material-components/datetime-picker/*": [
-        "dist/@angular-material-components/datetime-picker/*"
+      "@vipstorage/material-datetime-picker/*": [
+        "dist/@vipstorage/material-datetime-picker/*"
       ],
       "file-input": [
         "dist/file-input"
