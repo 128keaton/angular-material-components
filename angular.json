@@ -213,7 +213,6 @@
       }
     }
   },
-  "defaultProject": "angular-material-components",
   "schematics": {
     "@schematics/angular:module": {
       "prefix": "ngx-mat"
@@ -228,7 +227,6 @@
       "skipTests": true
     },
     "@schematics/angular:pipe": {
-      "prefix": "ngx-mat",
       "skipTests": true
     },
     "@schematics/angular:service": {
